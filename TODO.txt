@@ -1,0 +1,8 @@
+-fond unicolore + surfond un peu plus clair
+-Logo au top/mid
+-menu interactif et lié au logo (home/portfolio/about/blog/clients/inquire)
+-mid/left "hello" + logo + slogan on img (diapo deroulant fleche l/r)
+-mid/right link(logo"porfolio") on img to portfolio + link("a note from author") to about
+-bot/left "recent blog posts"
+-bot/right interactiv buttons (twitter/fb/pinterest)
+-extrem bot link("booking for 2015-get in touch") + smiley
