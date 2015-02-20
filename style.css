@@ -5,9 +5,14 @@ body
 
 #center 
 {
-	background-color: #f8f0e5;
+	background-color: #f9f1e6;
 	text-align: center;
 	margin-left: auto;
  	margin-right: auto;
  	width: ...;
+}
+
+.nav
+{
+    border-bottom: 1px solid #716558;
 }
